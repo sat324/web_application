@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<<link rel="stylesheet" href="style.css">>
+    <title>My First Webpage</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is my first webpage using HTML.</p>
+    <img src="https://via.placeholder.com/200" alt="Sample Image">
+    <a href="https://www.example.com">Visit Example</a>
+<script src="script.js"></script>
+
+</body>
+</html>
